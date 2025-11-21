@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+src/
+tsconfig.json
+.gitignore
+.npmignore
+
